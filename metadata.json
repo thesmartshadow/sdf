@@ -1,0 +1,6 @@
+{
+  "name": "Rehlati (رحلاتي)",
+  "description": "A travel and tourism platform for booking flights and hotels at competitive prices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
